@@ -1,6 +1,5 @@
 import UIKit
 
-<<<<<<< HEAD
 func fib( n: Int) -> Int {
     // Write a function for the Fibonacci numbers.
 
@@ -20,10 +19,3 @@ for i in 0..<1000 {
         break
     }
 }
-
-=======
-var feature3 = "3"
-print(feature3)
-
-var cherry = "Cherry pick example"
->>>>>>> 9208fad (Add cherry)
