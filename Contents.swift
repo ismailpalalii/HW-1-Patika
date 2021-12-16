@@ -21,3 +21,7 @@ for i in 0..<1000 {
 }
 
 // cherry pick example
+=======
+
+var cherryPick = "Cherry Pick Example"
+>>>>>>> 07b016c (Add cherry)
